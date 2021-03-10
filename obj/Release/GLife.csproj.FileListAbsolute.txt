@@ -1,0 +1,6 @@
+Q:\devl\GLife\bin\Release\GLife.exe.config
+Q:\devl\GLife\bin\Release\GLife.exe
+Q:\devl\GLife\bin\Release\GLife.pdb
+Q:\devl\GLife\obj\Release\GLife.csproj.CoreCompileInputs.cache
+Q:\devl\GLife\obj\Release\GLife.exe
+Q:\devl\GLife\obj\Release\GLife.pdb

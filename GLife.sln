@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLife", "GLife.csproj", "{9BC0CEBD-8F00-44CD-8021-6C221DDB7978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC0CEBD-8F00-44CD-8021-6C221DDB7978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC0CEBD-8F00-44CD-8021-6C221DDB7978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC0CEBD-8F00-44CD-8021-6C221DDB7978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC0CEBD-8F00-44CD-8021-6C221DDB7978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A58EB3-4827-4E91-BE6A-B5EC2993BD7A}
+	EndGlobalSection
+EndGlobal
